@@ -11,6 +11,10 @@ username: test_user
 password: worker_test!
 ```
 
+```
+username: test_user
+password: worker_test!
+```
 ## Installation
 
 Python3 must be already installed.
